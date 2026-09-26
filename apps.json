@@ -1,0 +1,14 @@
+{
+  "apps": [
+    {
+      "id": "pozibrowser",
+      "name": "POZIBrowser",
+      "description": "Мой браузер с Acrylic и POZISearch",
+      "version": "1.0",
+      "category": "Браузеры",
+      "icon": "",
+      "download_url": "https://github.com/timohetik/pozi-store/releases/download/1.0/Pozibrowser.exe",
+      "size": "191 МБ"
+    }
+  ]
+}
